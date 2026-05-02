@@ -1,0 +1,21 @@
+# Dependencies
+node_modules/
+backend/node_modules/
+frontend/node_modules/
+
+# Environment
+.env
+backend/.env
+
+# Build / IDE
+dist/
+build/
+.vscode/
+.idea/
+*.log
+
+# Workspace artifacts
+.antigravity/
+implementation_plan.md
+task.md
+walkthrough.md
